@@ -33,7 +33,7 @@ name: Money Chaudhary
 located_in: Greater Noida, India
 education:
   [
-    "B.Tech in Computer Science & IT (2nd Year, KCC Institute)",
+    "B.Tech in Computer Science & IT",
   ]
 current_status: "Fresher | Building Projects & Learning DSA"
 skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "MySQL", "Figma", "NodeJS", "ExpressJS", "Git", "Github"]
