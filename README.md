@@ -36,15 +36,8 @@ education:
     "B.Tech in Computer Science & IT (2nd Year, KCC Institute)",
   ]
 current_status: "Fresher | Building Projects & Learning DSA"
-skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "MySQL", "Figma"]
+skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "MySQL", "Figma", "NodeJS", "ExpressJS", "Git", "Github"]
 
-projects:
-  [
-    "SpendBuddy - Pokémon-style Expense Tracker",
-    "Emergency Safety Alert System",
-    "Patient Portal Web Interface",
-    "Car Detection using OpenCV",
-  ]
 
 fields_of_interests:
   [
