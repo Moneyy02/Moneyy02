@@ -45,7 +45,7 @@ fields_of_interests:
     "UI/UX",
     "Data Structures & Algorithms",
     "Databases",
-    "Open Source Contribution",
+    "Data Science",
   ]
 
 currently_learning: ["MySQL", "DSA (Striver A2Z)", "Advanced JavaScript"]
