@@ -24,6 +24,20 @@
   </a>
   <!-- Replace the following links with your actual profiles if any -->
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
+
+
+
+---
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -55,51 +69,6 @@ hobbies: ["Coding", "Designing in Figma", "Exploring New Tech", "Cinema"]
 
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-</p>
-
----
-
-<h2> 📊 &nbsp;GitHub Stats</h2>
-
-<p align="center">
-  <!-- Replace 'MoneyChaudhary' with your actual GitHub username if different -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MoneyChaudhary&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoneyChaudhary&theme=radical" alt="streak" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
-
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=AI+%2B+Full-Stack+Developer;Data+Storyteller;DSA+Daily+Learner;Building+Real+World+Projects"/>
-</div>
-
-</div>
----
-
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
-</div>
-
-
-
 ## ⚡ **Tech Stack**
 
 ### **Languages**
@@ -117,6 +86,23 @@ hobbies: ["Coding", "Designing in Figma", "Exploring New Tech", "Cinema"]
   <br>
   <b>React • Next.js • NestJS • Node.js • Express • PostgreSQL • MongoDB • Linux • Git • Tailwind • Bootstrap</b>
 </p>
+
+---
+
+<h2> 📊 &nbsp;GitHub Stats</h2>
+
+<p align="center">
+  <!-- Replace 'MoneyChaudhary' with your actual GitHub username if different -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MoneyChaudhary&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoneyChaudhary&theme=radical" alt="streak" height="150"/>
+</p>
+
+---
+
+
+
+
+
 
 
 
