@@ -109,7 +109,7 @@ hobbies: ["Coding", "Designing in Figma", "Exploring New Tech", "Cinema"]
 ## 🧩 LeetCode Progress
 ![LeetCode](https://leetcode.com/u/WPTFC41h9i/?theme=dark&font=baloo&ext=barchart)
 
----
+
 
 ---
 
