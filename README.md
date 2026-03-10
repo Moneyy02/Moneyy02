@@ -99,6 +99,28 @@ hobbies: ["Coding", "Designing in Figma", "Exploring New Tech", "Cinema"]
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+![Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🧩 LeetCode Progress
+![LeetCode](https://leetcode.com/u/WPTFC41h9i/?theme=dark&font=baloo&ext=barchart)
+
+---
+
+---
+
+
+
+> **“Code is never finished. Neither am I.”**
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+
+
 
 
 
